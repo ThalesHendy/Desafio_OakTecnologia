@@ -1,0 +1,11 @@
+body {
+    background-color: #ccc;
+}
+
+#cadastroProduto, #produtos{
+    background-color: #fff;
+    border: 1px solid rgb(172, 132, 175);
+    border-radius: 8px;
+    max-width: 800px;
+    padding: 50px;
+}
